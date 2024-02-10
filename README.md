@@ -1,4 +1,4 @@
-# AirportCheckInKiosk
+# Passport Scanner System
 
 This is a System Developement Project in completion of MIS332: Systems Development Using Advanced Software Tools at Acsenda School of Management.
 
